@@ -34,16 +34,16 @@ MATLAB (R2021a veya daha günceli önerilir)
 
 1. Bu projeyi indirin:
 git clone https://github.com/meliketepeli/ImageTransformations.git
-cd ImageTransformations
+   cd ImageTransformations
 
-2. MATLAB’ı açın ve proje klasörünü seçin.
-3. Kodları çalıştırın:
-ImageTransformations.m
+3. MATLAB’ı açın ve proje klasörünü seçin.
+4. Kodları çalıştırın:
+   ImageTransformations.m
 
 🍏 Mac Kullanıcıları İçin Kurulum
 1. Terminali açın ve projeyi indirin:
    git clone https://github.com/meliketepeli/ImageTransformations.git
-   cd ImageTransformations
+      cd ImageTransformations
 
 2. MATLAB uygulamasını açın ve proje klasörünü seçin.
 3. Kodları çalıştırın:
