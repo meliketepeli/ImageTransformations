@@ -35,7 +35,7 @@ MATLAB (R2021a veya daha günceli önerilir)
 1. Bu projeyi indirin:
 ```
 git clone https://github.com/meliketepeli/ImageTransformations.git
-   cd ImageTransformations
+cd ImageTransformations
 ```
 2. MATLAB’ı açın ve proje klasörünü seçin.
 3. Kodları çalıştırın:
@@ -51,5 +51,7 @@ git clone https://github.com/meliketepeli/ImageTransformations.git
 4. Kodları çalıştırın:
    ```
    ImageTransformations.m
+   ```
+   
 
 
